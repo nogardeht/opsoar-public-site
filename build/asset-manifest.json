@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/beta/build/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/beta/build/static/js/main.1898793a.chunk.js",
-    "main.js.map": "/beta/build/static/js/main.1898793a.chunk.js.map",
-    "runtime-main.js": "/beta/build/static/js/runtime-main.630b3f42.js",
-    "runtime-main.js.map": "/beta/build/static/js/runtime-main.630b3f42.js.map",
-    "static/js/2.e81c9bd9.chunk.js": "/beta/build/static/js/2.e81c9bd9.chunk.js",
-    "static/js/2.e81c9bd9.chunk.js.map": "/beta/build/static/js/2.e81c9bd9.chunk.js.map",
-    "static/js/3.ec032c3c.chunk.js": "/beta/build/static/js/3.ec032c3c.chunk.js",
-    "static/js/3.ec032c3c.chunk.js.map": "/beta/build/static/js/3.ec032c3c.chunk.js.map",
+    "main.css": "/beta/build/static/css/main.fe12d8af.chunk.css",
+    "main.js": "/beta/build/static/js/main.cdd98649.chunk.js",
+    "main.js.map": "/beta/build/static/js/main.cdd98649.chunk.js.map",
+    "runtime-main.js": "/beta/build/static/js/runtime-main.f31f44f5.js",
+    "runtime-main.js.map": "/beta/build/static/js/runtime-main.f31f44f5.js.map",
+    "static/js/2.060e0551.chunk.js": "/beta/build/static/js/2.060e0551.chunk.js",
+    "static/js/2.060e0551.chunk.js.map": "/beta/build/static/js/2.060e0551.chunk.js.map",
+    "static/js/3.9a64a6c7.chunk.js": "/beta/build/static/js/3.9a64a6c7.chunk.js",
+    "static/js/3.9a64a6c7.chunk.js.map": "/beta/build/static/js/3.9a64a6c7.chunk.js.map",
     "index.html": "/beta/build/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/beta/build/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.e81c9bd9.chunk.js.LICENSE.txt": "/beta/build/static/js/2.e81c9bd9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/beta/build/static/media/logo.6ce24c58.svg"
+    "static/css/main.fe12d8af.chunk.css.map": "/beta/build/static/css/main.fe12d8af.chunk.css.map",
+    "static/js/2.060e0551.chunk.js.LICENSE.txt": "/beta/build/static/js/2.060e0551.chunk.js.LICENSE.txt",
+    "static/media/opsoar_orange.9718e683.png": "/beta/build/static/media/opsoar_orange.9718e683.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.630b3f42.js",
-    "static/js/2.e81c9bd9.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.1898793a.chunk.js"
+    "static/js/runtime-main.f31f44f5.js",
+    "static/js/2.060e0551.chunk.js",
+    "static/css/main.fe12d8af.chunk.css",
+    "static/js/main.cdd98649.chunk.js"
   ]
 }

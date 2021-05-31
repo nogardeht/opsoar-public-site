@@ -1,0 +1,22 @@
+.hero {
+    width: 100vw;
+    height: 40vh;
+    min-height: 200px;
+    background: #021037;
+    background-blend-mode: darken, normal;
+    /* transform: rotate(90deg); */
+    color: white;
+    font-size:x-large;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+
+.hero-logo{
+    max-height:100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
